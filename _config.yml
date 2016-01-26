@@ -2,6 +2,7 @@ name: thelordslounge
 favicon: null
 layout_spectrum: 0.24872723734006286
 typography_spectrum: 0.8553264432121068
+title: The Lords Lounge
 cta:
   domain: null
   bucket: null
