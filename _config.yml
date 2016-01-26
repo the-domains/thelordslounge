@@ -1,0 +1,28 @@
+name: thelordslounge
+favicon: null
+layout_spectrum: 0.24872723734006286
+typography_spectrum: 0.8553264432121068
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.26157213537953794
+  lightness: 0.8369662677869201
+  saturation: 0.8400605777278543
+  rhythmicContrast: 0.6017385860905051
+purpose: []
